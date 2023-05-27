@@ -7,7 +7,7 @@
 
 # 🚀COMANDO DE INSTALAÇÃO, SÓ COPIAR E COLAR:
 ```
-bash <(wget -qO- https://github.com/Clineu01/painel5v1/main/painelwv5/ubuinst.sh)
+bash <(wget -qO- https://github.com/Clineu01/painel5v1/tree/main/painelwv5/ubuinst.sh)
 ```
 
 # 🔑CHAVE DE INSTALAÇÃO:
@@ -19,7 +19,7 @@ bash <(wget -qO- https://github.com/Clineu01/painel5v1/main/painelwv5/ubuinst.sh
 <h3><b>⚠(Executar na VPS do Painel SSH)⚠</b></h3>
 
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/Clineu01/painel5v1/main/painelwv5/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/Clineu01/painel5v1/tree/main/painelwv5/sincpainel.sh)
 ```
 
 # 🚀IMAGENS DO PAINEL:
